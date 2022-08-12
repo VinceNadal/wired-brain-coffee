@@ -13,13 +13,6 @@ issueConfigs:
   - "Use Case"
   - "Expected Behavior"
   - "Additional Context"
-# Optional configuration:
-#
-# whether the keywords are case-insensitive
-# default value is false, which means keywords are case-sensitive
-caseInsensitive: false
-# the label that will be added when the bot close an issue
-# The bot will only add a label if this property is set.
 label: "closed by bot"
 # The bot will ignore any issues that are opened or reopened by the user names in exception
 exception:
