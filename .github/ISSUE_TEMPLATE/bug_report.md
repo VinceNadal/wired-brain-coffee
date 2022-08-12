@@ -7,15 +7,14 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the Bug**
 A clear and concise description of what the bug is.
 
-**Steps To Reproduce**
+**Steps to Reproduce**
 Steps to reproduce the behavior:
 
-
-**Expected behavior**
+**Expected Behavior**
 A clear and concise description of what you expected to happen.
 
-**Current behavior**
+**Current Behavior**
 A clear and concise description of what is happening.
